@@ -63,3 +63,19 @@ FOSS is especially important in developing countries due to its low cost and fle
 
 ## Academic Context
 This repository was created as part of a university assignment on **Git, Version Control, and Free and Open Source Software (FOSS)**.
+
+References (APA Style)
+World Health Organization. (2023). Air pollution and health.
+https://www.who.int/health-topics/air-pollution
+World Health Organization. (2023). Health effects of air pollution.
+https://www.who.int/news-room/fact-sheets
+United States Environmental Protection Agency. (2023). Criteria air pollutants.
+https://www.epa.gov/criteria-air-pollutants
+European Environment Agency. (2023). Air pollution sources and impacts.
+https://www.eea.europa.eu/themes/air
+OpenAQ. (2023). Open air quality data platform.
+https://openaq.org
+QGIS Development Team. (2023). QGIS geographic information system.
+https://www.qgis.org
+Python Software Foundation. (2023). Python for scientific computing and data analysis.
+https://www.python.org
